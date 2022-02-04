@@ -1,28 +1,30 @@
 # Brandcenter Skillshare
 
 
-Make a scene <br/>
+Make Shapes <br/>
 
-Make a plane <br/>
+Add Materials <br/>
 
-Make a cube <br/>
+Add Box Collider to Plane <br/>
 
-Make a plane material <br/>
+Add Rigid Body to Cube <br/>
 
-Make a cube material <br/>
+Move Cube Above Plane <br/>
 
-Add box collider to plane <br/>
+Create Scripts <br/>
 
-Add shape & rigid body to cube <br/>
+Paste Scripts into Editor <br/>
 
-Move cube to desired height <br/>
+Add Script to Cube <br/>
 
-Turn cube into prefab <br/>
+Create A Prefab <br/>
 
-Delete cube )<br/>
+Delete Cube in Scene <br/>
 
-Create Null object <br/>
+Create Null Object <br/>
 
-Add Shapespawner code to null object <br/>
+Add Script to Null Object <br/>
+
+Connect Prefabs to Script <br/>
 
 Press Play <br/>
