@@ -1,6 +1,8 @@
 # Brandcenter Skillshare
 
-https://docs.google.com/presentation/d/1AHzi3Z98ueTDQ_cijZJ-7JrQHnOXXX-0rrlVxRtmirg/edit?usp=sharing
+Presentation link: https://docs.google.com/presentation/d/1AHzi3Z98ueTDQ_cijZJ-7JrQHnOXXX-0rrlVxRtmirg/edit?usp=sharing
+
+Video Link: https://drive.google.com/file/d/1MynSMFFj2wDrplLdCpmMzTqmqx5OWkam/view?usp=sharing
 
 Make Shapes <br/>
 
